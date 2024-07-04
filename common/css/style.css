@@ -168,7 +168,7 @@ body {
 
 .card:hover {
     transform: translate(-50%, -50%) scale(1.02);
-    box-shadow: 40px 15px rgba(0, 0, 0, 1);
+    box-shadow: 40px 14px rgba(0, 0, 0, 1);
 }
 
 .card__link {
